@@ -1,0 +1,4 @@
+/brain-tumor-mri-dataset
+/venv
+*.zip
+/__pycache__/
